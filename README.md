@@ -67,3 +67,4 @@ ocean-code-generator采用(适用):
 #### 感谢
 需要特别感谢eladmin项目，本生成器，很多内容抽离自该项目。</br>
 eladmin是一个非常强大的管理平台开源系统，项目地址:https://github.com/elunez/eladmin
+本项目为开源自测使用，如有侵权 请联系删除
